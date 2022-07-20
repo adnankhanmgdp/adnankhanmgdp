@@ -1,5 +1,5 @@
 # 💫 About Me:
-A self-taught developer | Code in PHP, C/C++, Java, Python, Dart/Flutter, JavaScript & Go | Can do full-stack but prefer writing back-end.
+A self-taught developer | Code in PHP, C/C++, Java, Python, Dart/Flutter, JavaScript & Go | Loves writing algorithms.
 
 
 ## 🌐 Socials:
