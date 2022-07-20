@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohd-zuhaib-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-zuhaib-khan" height="30" width="40" /></a>
 <a href="https://instagram.com/lucifer.489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucifer.489" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucim-qbuhu78pjmmk5vtjr3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucim-qbuhu78pjmmk5vtjr3q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Techwithlucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucim-qbuhu78pjmmk5vtjr3q" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adnan9125830571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan9125830571" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lucifer489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucifer489" height="30" width="40" /></a>
 </p>
