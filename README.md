@@ -19,4 +19,4 @@ A self-taught developer | Code in PHP, C/C++, Java, Python, Dart/Flutter, JavaSc
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adnankhanmgdp&icon=6&color=2)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=adnankhanmgdp&icon=6&color=2)](https://visitcount.itsvg.in)
